@@ -2,8 +2,8 @@ import { SiteConfig } from '@/types';
 
 export const siteConfig: SiteConfig = {
   metadata: {
-    name: 'NoNICK',
-    description: 'なんちゃってコンテンツクリエイター',
-    url: 'https://nonick-mc.com'
+    name: 'timu-119',
+    description: 'HTML・Node.js・JavaScript',
+    url: 'https://tmyt105.leyhp.com/'
   }
 }
