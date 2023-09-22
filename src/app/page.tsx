@@ -16,7 +16,7 @@ export default function Home() {
         </div>
         <div className='grid grid-cols-12 grid-rows-3 gap-5 lg:gap-6'>
           <FadeUpDiv className='col-span-12 lg:col-span-4 row-span-3 space-y-5 md:space-y-7 lg:space-y-8'>
-            <img className='w-[150px] lg:w-[200px] pointer-events-none rounded-full shadow-xl' src='https://www.tmyt105.leyhp.com/img/icon.png' alt="nonick's avatar"/>
+            <img className='w-[150px] lg:w-[200px] pointer-events-none rounded-full shadow-xl' src='https://www.tmyt105.leyhp.com/img/icon.png'/>
             <section>
               <h1 className='text-3xl lg:text-4xl font-black'>timu-119</h1>
               <h2 className='text-muted-foreground text-lg lg:text-xl'>HTML・Node.js・JavaScript</h2>
