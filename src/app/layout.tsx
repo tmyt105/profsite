@@ -27,8 +27,8 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: siteConfig.metadata.name,
     description: siteConfig.metadata.description,
-    site: '@nonick_mc',
-    creator: '@nonick_mc',
+    site: '@tmyt105_puni',
+    creator: '@tmyt105_puni',
   }
 }
 
